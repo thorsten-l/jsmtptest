@@ -1,0 +1,4 @@
+target/
+logs/
+config.xml
+jsmtptest.jar
